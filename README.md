@@ -1,6 +1,6 @@
 Courgle Firefox
 =======
-Try to build a Firefox version [Courgle extension](https://chrome.google.com/webstore/detail/courgle/mcggpejjnbggdinebehabmihecojgpdf)
+Try to build a Firefox version [Courgle extension](https://chrome.google.com/webstore/detail/courgle/mcggpejjnbggdinebehabmihecojgpdf) from *CC Kuoo, TM Kuo @ NTU CSIE*
 
 Install
 ------
