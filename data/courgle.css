@@ -1,0 +1,22 @@
+.courgle_article_link_item_wrapper
+{
+  padding:2px 0px 2px 4px;
+  margin:2px;
+  background-color:#F9FF92;
+  border:1px solid #FFD70D;
+  cursor:pointer;
+}
+
+.courgle_article_link_wrapper
+{
+}
+
+.courgle_article_title
+{
+  cursor:pointer;
+}
+
+.courgle_article_content
+{
+  border:1px solid #F0F0F0;
+}
